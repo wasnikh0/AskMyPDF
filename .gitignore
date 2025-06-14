@@ -6,3 +6,5 @@ __pycache__/
 *.pkl
 
 us_census/
+streamlit/
+.streamlit
