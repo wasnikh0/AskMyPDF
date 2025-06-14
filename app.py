@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
   base_url = "https://integrate.api.nvidia.com/v1",
-  api_key = "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"
+  api_key = ""
 )
 
 completion = client.chat.completions.create(
