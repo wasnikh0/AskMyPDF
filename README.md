@@ -43,6 +43,11 @@ The app retrieves relevant document chunks and responds using NVIDIA’s LLM, tr
 
 This app follows a **Retrieval-Augmented Generation (RAG)** architecture:
 
-![RAG Architecture](image.png)
+![RAG Architecture](RAG.png)
+
+---
+## ⚙️ User Interface
+
+![UI](UI.png)
 
 ---

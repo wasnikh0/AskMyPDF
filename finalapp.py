@@ -46,7 +46,7 @@ def vector_embedding(uploaded_files):
 # ----------------------
 # Streamlit UI
 # ----------------------
-st.title('🧠 NVIDIA NIM Document')
+st.title('🧠 AskMyPdf')
 uploaded_files = st.file_uploader("📎 Upload your PDF files", type="pdf", accept_multiple_files=True)
 
 if st.button("📌 Embed Documents"):
